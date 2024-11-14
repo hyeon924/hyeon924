@@ -126,7 +126,18 @@ Here are some ideas to get you started:
 </summary>
     
 <h6>✨(Ctrl+클릭하면 새 탭에서 열립니다)</h6>
+
+- [WEB Publishing 프로젝트] (https://github.com/hyeon924/Website)
 - [TechBlocks 프로젝트] (https://github.com/hyeon924/TechBlocks)
 
 </details>
 
+  <details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Hundred%20Points.webp" alt="Hundred Points" width="25" height="25" /> [study]  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Hundred%20Points.webp" alt="Hundred Points" width="25" height="25" />
+</summary>
+    
+<h6>✨(Ctrl+클릭하면 새 탭에서 열립니다)</h6>
+- [restAPI] (https://github.com/hyeon924/restAPI)
+
+</details>
