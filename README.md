@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 
 </details>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hyeon924&theme=shadow-purple&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon" alt="GitHub Streak" /></a>
+
 -->
 
 
@@ -64,7 +66,7 @@ Here are some ideas to get you started:
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C2EF7&multiline=true&width=540&lines=%F0%9F%92%9C+Hyeon%EC%9D%98+GitHub%EC%97%90+%EB%B0%A9%EB%AC%B8%ED%95%B4%EC%A3%BC%EC%85%94%EC%84%9C+%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4+!+%F0%9F%92%9C" alt="Typing SVG" /></a>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hyeon924&theme=shadow-purple&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon" alt="GitHub Streak" /></a>
+
 
 <a href="https://github.com/devxb/gitanimals">
 <img
