@@ -118,7 +118,6 @@ Here are some ideas to get you started:
     
 <h6>✨(Ctrl+클릭하면 새 탭에서 열립니다)</h6>
 - [AllForOne 프로젝트] (https://github.com/hyeon924/AllForOne)
-- [mallang 프로젝트] (https://github.com/hyeon924/mallang)
 
 
 
@@ -133,6 +132,7 @@ Here are some ideas to get you started:
 
 - [WEB Publishing 프로젝트] (https://github.com/hyeon924/Website)
 - [Eat-Map 프로젝트] (https://github.com/hyeon924/Eat-Map)
+- [mallang 프로젝트] (https://github.com/hyeon924/mallang)
 
 </details>
 
