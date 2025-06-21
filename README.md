@@ -77,9 +77,10 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-
+<!--
 ## 🚀 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon924)
+-->
 
 ## ⚙ 기술 스택
 
@@ -109,7 +110,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Notion.png?raw=true" width="80">
   <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Figma.png?raw=true" width="80">
 </div>
-
+<!--
 ## 💻 프로젝트
   <details>
 <summary>
@@ -147,3 +148,4 @@ Here are some ideas to get you started:
 - [Next.js] (https://github.com/hyeon924/nextJS)
 
 </details>
+-->
